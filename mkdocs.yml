@@ -13,3 +13,8 @@ theme:
     - navigation.top
     - search.suggest
     - header.autohide
+  icon:
+    repo: fontawesome/brands/github 
+
+repo_url: https://github.com/contentgiver
+repo_name: ContentGiver
