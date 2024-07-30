@@ -6,3 +6,10 @@ theme:
     primary: black
   logo: contentgiver.png
   favion: contentgiver.png
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - header.autohide
