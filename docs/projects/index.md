@@ -3,6 +3,6 @@ hide:
     toc: true
 ---
 
-# Projects
+# Our Projects
 
 <-- Projects here
