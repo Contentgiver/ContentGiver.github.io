@@ -5,7 +5,7 @@ theme:
     scheme: slate
     primary: black
   logo: contentgiver.png
-  favion: contentgiver.png
+  favicon: contentgiver.png
   features:
     - navigation.instant
     - navigation.instant.progress
