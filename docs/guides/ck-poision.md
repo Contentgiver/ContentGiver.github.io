@@ -1,9 +1,13 @@
 # CK-Poision
 This is an exploit that will disable ckcloud effectivly removing contentkeeper
 
-Please note that this won't unblock anything on school wifi, if you are at school please do something like use a hotspot to unblock
+!! note
 
-WARNING: This will block android apps while the exploit is active
+  This won't unblock anything on school wifi, if you are at school please do something like use a hotspot to unblock
+
+!! warning
+
+  This will block android apps while the exploit is active
 
 Here is how to do the exploit:
 1. create a locked mode google form
