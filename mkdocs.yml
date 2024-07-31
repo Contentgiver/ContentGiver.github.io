@@ -1,4 +1,5 @@
 site_name: ContentGiver
+site_url: https://contentgiver.github.io
 theme:
   name: material
   palette:
