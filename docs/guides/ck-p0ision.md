@@ -1,4 +1,4 @@
-# CK-Poision
+# CK-P0ision
 This is an exploit that will disable ckcloud effectivly removing contentkeeper
 
 !!! note
