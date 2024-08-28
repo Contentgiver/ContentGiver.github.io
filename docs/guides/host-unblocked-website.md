@@ -2,9 +2,10 @@
 
 Hosting a static website on `github.io` (with github pages) means it is already unblocked. It is really simple to do this.
 
-!!! tip
+:::tip
 
     name a file `index.html` to make it the homepage
+:::
 
 1. Create an account on github
 2. Create a new repo, name it whatever you like
