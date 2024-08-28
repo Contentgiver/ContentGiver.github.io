@@ -65,7 +65,7 @@ const config = {
         title: 'ContentGiver',
         logo: {
           alt: 'ContentGiver Logo',
-          src: 'img/logos/Standard.svg',
+          src: 'img/logos/Standard.png',
         },
         items: [
           {
