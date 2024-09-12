@@ -17,6 +17,7 @@
 
 .heroBanner * {
   font-family: "Roboto", sans-serif;
+  z-index: 0;
 }
 
 @media screen and (max-width: 996px) {
@@ -33,4 +34,11 @@
 
 .biglogo {
   width: 200px;
+}
+
+.particles {
+  z-index: -999 !important;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
